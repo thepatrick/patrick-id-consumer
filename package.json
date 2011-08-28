@@ -1,0 +1,9 @@
+{
+  "name": "patrick-id-tracker",
+  "version": "0.0.1",
+  "author": "Patrick Quinn-Graham <make-contact@pftqg.com>",
+  "dependencies": {
+    "msgpack-0.4": "https://github.com/downloads/thepatrick/node-msgpack/msgpack-0.1.4-node-0.5.x.tar.gz"
+  },
+  "main": "index"
+}
