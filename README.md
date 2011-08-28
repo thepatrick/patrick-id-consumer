@@ -1,7 +1,7 @@
 patrick-id-consumer
 ===================
 
-TBA
+Provides a node.js interface to my authentication provider.
 
 Licence
 -------
